@@ -66,7 +66,7 @@
 
 # HAPPY LEARNING 🤩
 >![image](https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/Comp-Man.gif)
->## 
+>## If you want to learn more about the bad parts and how to use them badly, consult any other JavaScript book.
 
 
 
